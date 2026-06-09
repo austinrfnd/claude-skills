@@ -8,6 +8,8 @@ A collection of custom skills for [Claude Code](https://docs.anthropic.com/en/do
 
 A celebration skill. When you've crushed a coding session, run `/make-it-rain` and Claude will reflect on what was accomplished and hype up the work with a short, punchy victory lap.
 
+![make-it-rain in action](make-it-rain.png)
+
 ### `/post-dev`
 
 A post-development quality gate. Spawns four parallel agents to run comprehensive checks before handing code back:
